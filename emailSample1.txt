@@ -1,0 +1,19 @@
+> Anyone knows how much it costs to host a web portal ?
+>
+Well, it depends on how many visitors you're expecting.
+This can be anywhere from less than 10 bucks a month to a couple of $100. 
+You should checkout http://www.rackspace.com/ or perhaps Amazon EC2 
+if youre running something big..
+
+To unsubscribe yourself from this mailing list, send an email to:
+groupname-unsubscribe@egroups.com
+
+Dear All,
+
+ Infosys Summer of Ideas to invite the students of your college to participate at the ideathon. Please find the official announcement note here and link to our webpage here. Interested candidates can fill up the google form and we would share more details and timeline with them shortly on the email IDs mentioned. 
+
+It is preferable that the students use their university email IDs if available. 
+
+Interested Students are requested to fill this google form:https://forms.gle/yoK7TK4F6CbKaP7B7
+
+Last Date to register: 28th June 2020, 09:00 pm
